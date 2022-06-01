@@ -1,4 +1,4 @@
-# Belajar Markdown (versi Edit)
+# Belajar Markdown (versi Rilis)
 Kelas E React JS - DTS FGA
 
 ## Apa itu Markdown
