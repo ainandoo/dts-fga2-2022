@@ -10,6 +10,9 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Repi
+- Link GitHub: https://www.github.com/repirisyan98
+- [GitHub](https://www.github.com/repirisyan98)
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
