@@ -9,12 +9,16 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
-
+- Link Github : https://github.com/ernestngenest/dts-fga-2/edit/ernest-test/README.md
+- [Github] (https://github.com/ernestngenest)
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
 
 CHANGE LOG
+- 1.3.101
+  1. Penambahan teks
+  
 - 1.3.100
   1. Penambahan teks
 
@@ -24,3 +28,4 @@ CHANGE LOG
 - 1.2.0
   1. Perubahan format dokumen
   2. Fitur X dihapus
+
