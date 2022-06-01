@@ -10,6 +10,9 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Fajar Hidayatullah
+- Link GitHub: https://github.com/Fajarsch
+
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
