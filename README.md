@@ -6,7 +6,7 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 
 
 #### Terakhir di update: 01 Juni 2022
-Versi dokumen 1.3.99
+Versi dokumen 1.3.100
 
 CHANGE LOG
 - 1.3.99
@@ -15,4 +15,3 @@ CHANGE LOG
 - 1.2.0
   1. Perubahan format dokumen
   2. Fitur X dihapus
-  3. fitur Y sudah usang
