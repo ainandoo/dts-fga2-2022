@@ -10,6 +10,8 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Rahadian 
+- [GitHub](https://github.com/Rahanug)
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
