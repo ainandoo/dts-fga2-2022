@@ -10,6 +10,11 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Ali
+- Link GitHub: https://www.github.com/Ali-321
+- [GitHub](https://www.github.com/Ali-321)
+
+
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
