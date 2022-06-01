@@ -10,6 +10,10 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Bima Gusti Syauqi
+- Link GitHub: https://www.github.com/Bima849
+- [GitHub](https://www.github.com/Bima849)
+
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
