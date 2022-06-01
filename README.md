@@ -4,6 +4,12 @@ Kelas E React JS - DTS FGA
 ## Apa itu Markdown
 Markdown adalah sebuah dokumen yang memiliki _format_.
 
+## Daftar hadir
+
+Ainan
+Link GitHub: https://www.github.com/ainandoo
+[GitHub](https://www.github.com/ainandoo)
+
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
