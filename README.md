@@ -9,7 +9,7 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
-
+- Muzakki Hafizh Setiono: https://github.com/zaeroblitz
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
