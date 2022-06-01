@@ -6,7 +6,7 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 
 ## Daftar hadir
 1. Tata Redha Al Fath
-2. Chris
+
 
 Ainan
 - Link GitHub: https://www.github.com/ainandoo
@@ -14,8 +14,7 @@ Ainan
 
 Muhammad Ryandrie
 - Link Github: https://github.com/ryandriesatria
-Chris
--link Github https://github.com/christofernazara
+
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
