@@ -11,6 +11,8 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Muhammad Ryandrie
+- Link Github: https://github.com/ryandriesatria
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
