@@ -10,9 +10,10 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Rollando Harry Saputra
+- Link GitHub: https://www.github.com/HarryRoll
+- [GitHub](https://www.github.com/Harryroll)
 
-#### Terakhir di update: 01 Juni 2022
-Versi dokumen 1.3.101
 
 CHANGE LOG
 - 1.3.100
