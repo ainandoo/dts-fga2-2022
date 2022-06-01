@@ -14,6 +14,9 @@ Ainan
 Muhammad Ryandrie
 - Link Github: https://github.com/ryandriesatria
 
+Abduhakim Hatta Laksana
+- Link Github: https://github.com/Abduhakim19
+
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
 
