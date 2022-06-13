@@ -14,6 +14,9 @@ Ainan
 Muhammad Ryandrie
 - Link Github: https://github.com/ryandriesatria
 
+Arief Maulana
+- Link GitHub: [Here](https://github.com/Kochiyoshi)
+
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
 
