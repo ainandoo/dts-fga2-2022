@@ -10,6 +10,7 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+
 1. Tata Redha Al Fath
 
 2. Jidan Sandika [GitHub](https://www.github.com/jidan-sandika)
@@ -31,7 +32,10 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 8. Jeremia pane
 
 9. Ernest Christca
-- Link Github : [Github] (https://github.com/ernestngenest)
+- Link Github : [Github](https://github.com/ernestngenest)
+
+10. Bima Gusti Syauqi
+- Link GitHub: https://www.github.com/Bima849
 
 
 #### Terakhir di update: 14 Juni 2022
