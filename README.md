@@ -70,6 +70,8 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 20. Habib Akbar
 - Link Github: https://github.com/Habibakbar28
 
+21. Fajar Hidayatullah
+- Link GitHub: https://github.com/Fajarsch
 
 #### Terakhir di update: 14 Juni 2022
 Versi dokumen 1.3.101
