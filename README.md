@@ -48,6 +48,9 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 - Link GitHub: https://www.github.com/Ali-321
 - [GitHub](https://www.github.com/Ali-321)
 
+14. Shaqq771
+- Link GitHub: https://www.github.com/Shaqq771
+- [GitHub](https://www.github.com/Shaqq771)
 
 #### Terakhir di update: 14 Juni 2022
 Versi dokumen 1.3.101
@@ -65,4 +68,3 @@ CHANGE LOG
 - 1.2.0
   1. Perubahan format dokumen
   2. Fitur X dihapus
-
