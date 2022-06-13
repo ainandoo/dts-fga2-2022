@@ -62,6 +62,8 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 17. Muhammad Fariz Rizky
 - [Github](https://github.com/mfrzky)
 
+18. Christofer Nazara
+
 #### Terakhir di update: 14 Juni 2022
 Versi dokumen 1.3.101
 
