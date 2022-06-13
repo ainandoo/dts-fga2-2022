@@ -64,6 +64,9 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 
 18. Christofer Nazara
 
+19. Iqbal Tri K
+- Link GitHub: https://github.com/iqbaltk
+
 #### Terakhir di update: 14 Juni 2022
 Versi dokumen 1.3.101
 
