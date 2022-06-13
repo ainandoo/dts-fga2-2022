@@ -5,11 +5,13 @@ Kelas E React JS - DTS FGA 2022
 Markdown adalah sebuah dokumen yang memiliki _format_.
 
 ## Daftar hadir
+ernest christca
 
 0. Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
-
+- Link Github : https://github.com/ernestngenest/dts-fga-2/edit/ernest-test/README.md
+- [Github] (https://github.com/ernestngenest)
 
 1. Tata Redha Al Fath
 2. Jidan Sandika [GitHub](https://www.github.com/jidan-sandika)
@@ -35,6 +37,9 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 Versi dokumen 1.3.101
 
 CHANGE LOG
+- 1.3.101
+  1. Penambahan teks
+  
 - 1.3.100
   1. Penambahan teks
 
@@ -44,3 +49,4 @@ CHANGE LOG
 - 1.2.0
   1. Perubahan format dokumen
   2. Fitur X dihapus
+
