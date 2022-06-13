@@ -55,6 +55,10 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 15. Nama : Muhamad Chaerul Anwar
 - Link Github: https://github.com/anwar1622/
 
+16. Jenny Verdi
+- Link GitHub: https://www.github.com/jnyVerdi
+- [GitHub](https://github.com/jnyVerdi)
+
 #### Terakhir di update: 14 Juni 2022
 Versi dokumen 1.3.101
 
