@@ -10,11 +10,6 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
-Dani Ahnaf Falih
-- Link Github: https://github.com/daniahnaf22
-- [Github](https://github.com/daniahnaf22)
-
-
 1. Tata Redha Al Fath
 
 2. Jidan Sandika [GitHub](https://www.github.com/jidan-sandika)
@@ -40,6 +35,14 @@ Dani Ahnaf Falih
 
 10. Bima Gusti Syauqi
 - Link GitHub: https://www.github.com/Bima849
+
+11. Rollando Harry Saputra
+- Link GitHub: https://www.github.com/HarryRoll
+- [GitHub](https://www.github.com/Harryroll)
+
+12. Dani Ahnaf Falih
+- Link Github: https://github.com/daniahnaf22
+- [Github](https://github.com/daniahnaf22)
 
 
 #### Terakhir di update: 14 Juni 2022
