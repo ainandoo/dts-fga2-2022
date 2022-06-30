@@ -1,8 +1,10 @@
-# Belajar Markdown & Pull Request (versi Rilis)
-Kelas E React JS - DTS FGA 2022
+# Belajar Git, Markdown & Pull Request (versi Rilis)
+
+ReactJS Kelas E  - DTS FGA 2022
 
 ## Apa itu Markdown
-Markdown adalah sebuah dokumen yang memiliki _format_.
+
+Markdown adalah sebuah teks dokumen yang memiliki _format_.
 
 ## Daftar hadir
 
@@ -81,18 +83,19 @@ Markdown adalah sebuah dokumen yang memiliki _format_.
 
 
 #### Terakhir di update: 14 Juni 2022
-Versi dokumen 1.3.101
+Versi dokumen 0.3.03
 
 CHANGE LOG
-- 1.3.101
-  1. Penambahan teks
+
+- 0.3.03
+  1. Pembaruan penomoran versi
   
-- 1.3.100
+- 0.3.02
   1. Penambahan teks
 
-- 1.3.99
+- 0.3.01
   1. Penambahan teks
 
-- 1.2.0
+- 0.2
   1. Perubahan format dokumen
-  2. Fitur X dihapus
+  2. Sebagian konten dihapus
